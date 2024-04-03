@@ -8,8 +8,6 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
         ArrayList<Empleado> listaEmpleados = new ArrayList<>();
         ArrayList<String> equipoGerenteA = new ArrayList<>();
         ArrayList<String> lenguajesDesarrolladorA = new ArrayList<>();
